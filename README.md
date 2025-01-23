@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently a college student studying information systems, learning about business system application development.
 <!--
 **mattcopfer/mattcopfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
